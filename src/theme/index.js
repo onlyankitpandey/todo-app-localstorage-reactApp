@@ -15,8 +15,16 @@ const baseOptions = {
         backgroundColor: "#171425"
       },
     },
+    MuiDialog: {
+      paper: {
+        backgroundColor: "#171425"
+      }
+    },
 
     MuiButton: {
+      label: {
+        color: "#E59446"
+      },
       root: {
         "&:hover": {
           backgroundColor: "none",
