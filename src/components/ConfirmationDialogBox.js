@@ -17,10 +17,10 @@ const ConfirmationDialogBox = ({ title, desc, open, handleClose, actionHandler }
       </DialogContent>
       <DialogActions>
         <Button onClick={handleClose} color="primary">
-          Disagree
+          No
         </Button>
         <Button onClick={() => actionHandler()} color="primary" autoFocus>
-          Agree
+          Yes
         </Button>
       </DialogActions>
     </Dialog>

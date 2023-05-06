@@ -24,7 +24,7 @@ const baseOptions = {
 
     MuiButton: {
       label: {
-        color: "#E59446"
+        color: "#FFFFFF"
       },
       root: {
         "&:hover": {
