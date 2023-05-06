@@ -12,7 +12,8 @@ const baseOptions = {
     },
     MuiInputBase: {
       fullWidth: {
-        backgroundColor: "#171425"
+        backgroundColor: "#171425",
+        color: "#E59446"
       },
     },
     MuiDialog: {
